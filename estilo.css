@@ -1,0 +1,31 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Century  Gothic
+}
+
+button {
+	padding: 9px;
+	background-color: #047;
+	color: #fff;
+	font-size: 19px;
+	border: none;
+	margin: 20px auto;
+	display: block;
+}
+
+
+input {
+	width: 50%;
+	margin: 10px 25%;
+}
+
+
+.show-Frequency {
+	background-color: #047;
+	color: #fff;
+	padding: 30px;
+	font-size: 50px;
+	margin-top: 25px;
+	text-align: center;
+}
